@@ -1,6 +1,6 @@
 <h1 align="center">Hi! Welcome :) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/Yfl7CS7vQqnebA69aH/giphy.gif" width="200px"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/emmarrat/">
