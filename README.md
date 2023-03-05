@@ -15,9 +15,9 @@
 </div>
 
 ---
+
 My name is Emir, I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-emmarrat-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emmarrat)
 
 ---
 
