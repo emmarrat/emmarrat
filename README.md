@@ -16,12 +16,12 @@
 
 ---
 
-My name is Emir, I am a Frontend Developer. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+My name is Emir, I am a JS Developer. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 
 ---
 <div>
-  For the last few months this account has been used for mentoring purposes as I work as a mentor for frontend students, don't be surprised by strange reposts.
+  For the last few months this account has been used for mentoring purposes as I work as a mentor for JS students, don't be surprised by strange reposts.
 </div>
 ---
 
